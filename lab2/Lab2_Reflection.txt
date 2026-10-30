@@ -1,0 +1,23 @@
+# Lab 2 – Agile Backlog Creation & Sprint Simulation in Jira
+
+## Reflection
+
+**1. Did your estimations reflect the actual effort?**
+
+The story points provided an estimate of the complexity and effort involved in each user story. We used Fibonacci-based estimates ranging from 3 to 8 points. Since this was a simulated sprint and not actual software development, the estimates could not be compared against real development effort. However, they helped us distribute work between the sprints.
+
+**2. Was your backlog well-prioritized?**
+
+Yes. All seven user stories were assigned High priority based on their importance to the webhook ingestion and delivery system. The stories were organized under three Epics: Webhook Ingestion and Processing, Delivery Retry and Reliability, and Dead-Letter Queue Management. This made the backlog structured and easy to manage.
+
+**3. How did your simulated sprint align with your plan?**
+
+The work was divided into two sprints. Sprint 1 contained four user stories with a total of 21 story points, while Sprint 2 contained three user stories with 15 story points. The stories were moved through To Do, In Progress, and Done to simulate task completion. The planned work was completed within the simulation.
+
+**4. What insights did the Burndown Chart give about your team's capacity?**
+
+The Burndown Chart showed a sharp reduction in remaining work, reaching zero early in the sprint. This indicates that the simulated tasks were marked complete within a short period. However, since the sprint was simulated, the chart does not represent actual team capacity or development velocity. A more gradual burndown would provide a better representation of work completed over time.
+
+## Conclusion
+
+This lab provided practical experience in creating Epics and User Stories, prioritizing and estimating backlog items, planning sprints, simulating task progress, and analysing sprint performance using Jira.
